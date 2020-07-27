@@ -9,7 +9,7 @@ import (
 	"os"
 )
 
-var transparent = color.RGBA{A: 255}
+var transparent = color.RGBA{}
 
 func main() {
 	// Declare flags.
